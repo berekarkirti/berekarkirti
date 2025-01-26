@@ -16,9 +16,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kirti berekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kirti berekar" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/kirti-berekar-607320289" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kirti berekar" height="30" width="40" /></a>
 <a href="https://instagram.com/kirti_berekar_0212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kirti_berekar_0212" height="30" width="40" /></a>
-<a href="https://medium.com/@berekarkirti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@berekarkirti" height="30" width="40" /></a>
+<a href="https://medium.com/@berekarkirti11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@berekarkirti" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
